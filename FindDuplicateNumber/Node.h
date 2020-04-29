@@ -12,5 +12,6 @@ public:
 	Node(int _value, Node* next = nullptr);
 
 	~Node();
+
 };
 
